@@ -89,6 +89,7 @@ void PipesCreator::CheckForCollision()
             GetSignal().Dispatch("game_over");
         }
     }
+
 }
 
 void PipesCreator::CheckForCollisionScore()
